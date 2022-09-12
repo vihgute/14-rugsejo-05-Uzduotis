@@ -15,9 +15,9 @@ body{
     padding: box-shadow 0px 0px 2px 2px rgb(74, 74, 83);
     size: 1px;
   }  
-.nav{ 
+.ikonos{ 
     justify-content: space-between;
-    flex-direction: column;
+    flex-direction: row ;
 }
 .blue {   
     color: blue;
